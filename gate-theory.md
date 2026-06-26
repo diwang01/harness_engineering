@@ -1,4 +1,4 @@
-# Context: The 8-Gate Framework (Dicklesworthstone)
+# Context: The 8-Gate Framework 
 
 A structured quality wall for agentic software development. Each gate maps to an industry-standard
 discipline, so the framework speaks both to AI-agent workflows and to classical engineering practice.
